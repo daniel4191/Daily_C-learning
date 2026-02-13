@@ -1,0 +1,15 @@
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.deps.json
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.runtimeconfig.json
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.dll
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.pdb
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.AssemblyInfoInputs.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.AssemblyInfo.cs
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.csproj.CoreCompileInputs.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.sourcelink.json
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.dll
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/refint/MyAdditionCalculator.dll
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.pdb
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.genruntimeconfig.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter2/MyAdditionCalculator/obj/Debug/net8.0/ref/MyAdditionCalculator.dll
