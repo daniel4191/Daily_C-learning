@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MyAdditionCalculator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Chapter3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d305f66ba1ca28f047a467e3ef73847721d716d")]
-[assembly: System.Reflection.AssemblyProductAttribute("MyAdditionCalculator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MyAdditionCalculator")]
+[assembly: System.Reflection.AssemblyProductAttribute("Chapter3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Chapter3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

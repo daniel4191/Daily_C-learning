@@ -1,0 +1,15 @@
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/bin/Debug/net8.0/Chapter3
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/bin/Debug/net8.0/Chapter3.deps.json
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/bin/Debug/net8.0/Chapter3.runtimeconfig.json
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/bin/Debug/net8.0/Chapter3.dll
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/bin/Debug/net8.0/Chapter3.pdb
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.AssemblyInfoInputs.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.AssemblyInfo.cs
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.csproj.CoreCompileInputs.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.sourcelink.json
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.dll
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/refint/Chapter3.dll
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.pdb
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/Chapter3.genruntimeconfig.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/Chapter3/obj/Debug/net8.0/ref/Chapter3.dll

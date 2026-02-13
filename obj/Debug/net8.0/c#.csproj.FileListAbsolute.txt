@@ -1,0 +1,5 @@
+/Users/choidaniel/Desktop/daniel_folder/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choidaniel/Desktop/daniel_folder/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/choidaniel/Desktop/daniel_folder/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/choidaniel/Desktop/daniel_folder/c#/obj/Debug/net8.0/c#.sourcelink.json
